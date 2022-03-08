@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/chat"
+        android:title="聊天室"
+        android:icon="@drawable/ic_baseline_chat_24"
+        />
+    <item android:id="@+id/group"
+        android:title="分組"
+        android:icon="@drawable/ic_baseline_group_24"
+        />
+    <item android:id="@+id/game"
+        android:title="Item"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        />
+</menu>
